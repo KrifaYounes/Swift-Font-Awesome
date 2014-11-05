@@ -6,6 +6,7 @@ Swift Font Awesome is a Swift extension for NSString. Easily use the icons from 
 
 - [x] Enums for all of the icons, insert icons quick and easy with autocomplete
 - [x] Use the class names from the Font Awesome website
+- [x] Updated to Font Awesome version 4.2.0
 
 ## Requirements
 
